@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+#counter{
+    font-size :30px; 
+    border:2px solid black;
+    width: 40px;
+    /* height: 40px; */
+    box-shadow: 0px 0px 6px 0px black;
+}
+
+
+#sub{
+    background-color: red;
+    color: white;
+   font-size: 20px;
+   width: 29px;
+}
+
+#add{
+    background-color: blue;
+    color: white;
+   font-size: 20px;
+   width: 29px;
+}
